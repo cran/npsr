@@ -1,0 +1,2 @@
+# Necessary and Probably Sufficient Test for Finding Valid Instrumental Variables
+This is an implementation of Amit Sharma's [NPS test](http://amitsharma.in/pubs/necessary_probably_sufficient_iv_test.pdf).
